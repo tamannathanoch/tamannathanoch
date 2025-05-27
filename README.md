@@ -88,11 +88,9 @@ Python Programming, Data Science, Data Analysis, Machine Learning, Natural Langu
 - 🗨️ Open to networking, collaboration, and learning from the community!
 
 ---
-### 📊 GitHub Contributions & Streaks
+### 📊 GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamannathanoch&theme=radical" alt="GitHub Streak Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=tamannathanoch&show_icons=true&count_private=true&theme=radical&hide=stars,followers,prs,issues,contribs&hide_rank=true" alt="GitHub Total Commits" />
 
 <p align="center">
   ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=tamannathanoch&show_icons=false&count_private=true&theme=radical&hide=stars,issues,pulls&hide_rank=true&hide_lang=true)
