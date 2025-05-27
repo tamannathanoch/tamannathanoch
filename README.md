@@ -90,10 +90,13 @@ Python Programming, Data Science, Data Analysis, Machine Learning, Natural Langu
 ---
 ### 📊 GitHub stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=tamannathanoch&show_icons=true&count_private=true&theme=radical&hide=stars,followers,prs,issues,contribs&hide_rank=true" alt="GitHub Total Commits" />
 
 <p align="center">
-  ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=tamannathanoch&show_icons=false&count_private=true&theme=radical&hide=stars,issues,pulls&hide_rank=true&hide_lang=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=tamannathanoch&show_icons=true&count_private=true&theme=radical&hide=stars,followers,prs,issues,contribs&hide_rank=true" alt="GitHub Total Commits" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamannathanoch&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
 ### 🛠️ Most Used Languages
