@@ -4,7 +4,7 @@
 💻 MCA '26 | Developer & Tech Enthusiast <br>
 📊 Exploring Data, ML and Real-World Impact <br>
 🌱 Learning every day, building with purpose <br>
-🔗 <a href="https://tamannathanoch.github.io">tamannathanoch.github.io</a> | #WomenInTech
+🔗 #WomenInTech
 </p>
 
 ---
@@ -36,7 +36,7 @@ Python Programming, Data Science, Data Analysis, Machine Learning, Natural Langu
 
 ### 📫 Let's Connect
 
-- 💼 Portfolio: [tamannathanoch.github.io](https://tamannathanoch.github.io)
+- 🔗 Email: thanochtamanna@gmail.com
 - 📬 LinkedIn: https://www.linkedin.com/in/tamanna-thanoch-831088247/ 
 - 🗨️ Open to networking, collaboration, and learning from the community!
 
