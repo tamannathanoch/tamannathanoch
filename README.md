@@ -90,7 +90,7 @@ Python Programming, Data Science, Data Analysis, Machine Learning, Natural Langu
 ---
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamannathanoch&show_icons=true&theme=radical&hide=languages" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tamannathanoch&show_icons=true&theme=radical&hide=languages&show_rank=false" alt="GitHub stats" />
 </p>
 
 ### 🛠️ Most Used Languages
@@ -102,8 +102,6 @@ Python Programming, Data Science, Data Analysis, Machine Learning, Natural Langu
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamannathanoch&theme=radical" alt="GitHub Activity Graph" />
 </p>
-
-
 
 <p align="center">
 ✨ Thanks for visiting my profile! ✨
