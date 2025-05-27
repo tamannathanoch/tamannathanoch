@@ -82,7 +82,7 @@ Python Programming, Data Science, Data Analysis, Machine Learning, Natural Langu
 
 ---
 
-<p align="center">
+<p>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 - 🗨️ Open to networking, collaboration, and learning from the community!
