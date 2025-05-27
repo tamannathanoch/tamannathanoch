@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tamanna 👋</h1>
+<h1 align="center">Hi, I'm Tamanna Thanoch👋</h1>
 
 <p align="center">
 💻 MCA '26 | Developer & Tech Enthusiast <br>
@@ -20,7 +20,7 @@
 ### 🛠️ Tech I’m Exploring
 
 Languages:
-Python, SQL
+Python, SQL, C
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -72,7 +72,6 @@ Python Programming, Data Science, Data Analysis, Machine Learning, Natural Langu
 ---
 
 ### 📧 Connect with Me
-<p align="center">
   <a href="mailto:thanochtamanna@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
