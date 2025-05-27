@@ -94,7 +94,7 @@ Python Programming, Data Science, Data Analysis, Machine Learning, Natural Langu
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tamannathanoch&show_icons=true&count_private=true&theme=radical&hide=stars,followers,prs,issues,contribs&hide_rank=true" alt="GitHub Total Commits" />
 </p>
-
+### 📊 GitHub Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamannathanoch&theme=radical" alt="GitHub Activity Graph" />
 </p>
@@ -104,10 +104,6 @@ Python Programming, Data Science, Data Analysis, Machine Learning, Natural Langu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamannathanoch&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-### 📊 GitHub Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamannathanoch&theme=radical" alt="GitHub Activity Graph" />
-</p>
 
 <p align="center">
 ✨ Thanks for visiting my profile! ✨
