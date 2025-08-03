@@ -84,10 +84,11 @@ Python Programming, Data Science, Data Analysis, Machine Learning, Natural Langu
 
 <p align="center">
   <img src="https://i.postimg.cc/Kzpt1SfY/photuu.png" width="400"/>
+  - 🗨️ Open to networking, collaboration, and learning from the community!
 </p>
 
 
-- 🗨️ Open to networking, collaboration, and learning from the community!
+
 
 ---
 ### 📊 GitHub stats
