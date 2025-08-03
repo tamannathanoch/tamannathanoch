@@ -82,11 +82,9 @@ Python Programming, Data Science, Data Analysis, Machine Learning, Natural Langu
 
 ---
 
-
 <p align="center">
-  <img src="[![photuu.png](https://i.postimg.cc/Kzpt1SfY/photuu.png)](https://postimg.cc/bDbZ55KX)" width="400"/>
+  <img src="https://i.postimg.cc/Kzpt1SfY/photuu.png" width="400"/>
 </p>
-
 
 
 - 🗨️ Open to networking, collaboration, and learning from the community!
